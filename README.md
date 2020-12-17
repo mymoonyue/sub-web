@@ -1,5 +1,5 @@
 # sub-web
-一条小团团
+
 基于 vue-cli 与 [tindy2013/subconverter](https://github.com/tindy2013/subconverter) 后端实现的配置自动生成。
 
 ## Table of Contents
